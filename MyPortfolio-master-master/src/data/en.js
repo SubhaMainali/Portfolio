@@ -1,6 +1,6 @@
 export default {
-  firstName: 'Yash',
-  lastName: 'Kharel',
+  firstName: 'Shubha',
+  lastName: 'Mainali',
   emailAddress: 'yash048339@gmail.com',
   headline: 'Software Developer in Nepal',
   summary: `
@@ -19,7 +19,7 @@ export default {
   phoneNumbers: [
     {
       type: 'Personal',
-      number: '+977 9843048339',
+      number: '+977 9845033217',
     },
   ],
 
